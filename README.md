@@ -1,0 +1,1 @@
+echo "# study_python"
